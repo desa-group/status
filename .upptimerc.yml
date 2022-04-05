@@ -22,9 +22,9 @@ status-website:
   introMessage: You can use this page to check the uptime of VAIN related pages.
   navbar:
     - title: Status
-      href: /
-    - title: GitHub
       href: https://desa-group.github.io/status/
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
