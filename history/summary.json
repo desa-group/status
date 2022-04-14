@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/vain.rusz.dev",
     "slug": "vain",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 197,
-    "timeDay": 197,
-    "timeWeek": 188,
-    "timeMonth": 197,
-    "timeYear": 197,
+    "uptime": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 231,
+    "timeDay": 426,
+    "timeWeek": 260,
+    "timeMonth": 231,
+    "timeYear": 231,
     "dailyMinutesDown": {
-      "2022-04-13": 14,
       "2022-04-05": 14
     }
   },
@@ -26,18 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/matrix.rusz.dev",
     "slug": "matrix",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 289,
-    "timeDay": 277,
-    "timeWeek": 255,
-    "timeMonth": 289,
-    "timeYear": 289,
-    "dailyMinutesDown": {
-      "2022-04-13": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 308,
+    "timeDay": 373,
+    "timeWeek": 298,
+    "timeMonth": 308,
+    "timeYear": 308,
+    "dailyMinutesDown": {}
   }
 ]
