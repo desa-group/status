@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/vain.rusz.dev",
     "slug": "vain",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 231,
-    "timeDay": 426,
-    "timeWeek": 260,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 234,
+    "timeDay": 287,
+    "timeWeek": 272,
+    "timeMonth": 234,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2022-04-05": 14
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 373,
-    "timeWeek": 298,
-    "timeMonth": 308,
-    "timeYear": 308,
+    "time": 312,
+    "timeDay": 366,
+    "timeWeek": 312,
+    "timeMonth": 312,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   }
 ]
